@@ -1,0 +1,3 @@
+[submodule "trumpet-css"]
+	path = trumpet-css
+	url = git@github.com:thirsty-wing/trumpet-css.git
